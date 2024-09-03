@@ -1,0 +1,1 @@
+add_executable(lesson0 lesson0.c)
