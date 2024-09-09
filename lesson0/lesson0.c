@@ -1,6 +1,20 @@
 #include <stdio.h>
 
 int main() {
-    char *code = "#include <stdio.h>%c%cint main() {%c    char *code = %c%s%c;%c    printf(code, 10, 10, 10, 34, code, 34, 10, 10);%c    return 0;%c}%c";
-    printf(code, 10, 10, 10, 34, code, 34, 10, 10);
-    return 0; }
+    int n = 1, i = 1;
+    float l = 1, x;
+    float e = 1.0;
+    printf("Please enter a number: ");
+    scanf("%d", &n);
+    printf("Please enter a number for rounding: ");
+    scanf("%f", &x);
+    for (; i <= n; i++) {
+        l = l * i;
+        while (1.0 / l > x) {
+            e = e + 1.0f / l;
+            break;
+        }
+    }
+    printf("e=%f", e);
+    return 0;
+}

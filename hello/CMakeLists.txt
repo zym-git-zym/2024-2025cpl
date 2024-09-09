@@ -1,4 +1,4 @@
-add_executable(helllo hello.c)
+add_executable(hello hello.c)
 
 
 
