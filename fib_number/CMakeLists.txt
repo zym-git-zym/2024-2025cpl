@@ -1,0 +1,1 @@
+add_executable(fib_number fib_number.c)

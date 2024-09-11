@@ -1,0 +1,1 @@
+add_executable(Random-Walk Random-Walk.c)
