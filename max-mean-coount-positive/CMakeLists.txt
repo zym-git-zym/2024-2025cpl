@@ -1,0 +1,1 @@
+add_executable(max-mean-count-positive max-mean-count-positive.c)
