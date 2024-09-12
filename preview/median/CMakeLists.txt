@@ -1,0 +1,1 @@
+add_executable(median median.c)

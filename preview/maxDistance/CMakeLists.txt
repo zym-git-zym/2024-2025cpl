@@ -1,0 +1,1 @@
+add_executable(maxDistance maxDistance.c)
