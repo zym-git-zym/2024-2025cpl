@@ -19,18 +19,17 @@
     return max;
 }
 
- int mean(int a[], int n) {
+ double mean(int a[], int n) {
     if (n <= 0) {
         printf("Array length must be greater than 0.\n");
         return -1; // 错误标志，假设数组中所有元素均非负
     }
 
-    int mean,sum = 0;
+    double sum = 0.0;
     for (int i = 0; i < n; i++) {
         sum += a[i];
     }
-    mean = sum / n;
-     return mean;
+    return (double)sum / n;
 
 }
 
@@ -39,7 +38,7 @@ int countpositive(int a[],int n) {
          printf("Array length must be greater than 0.\n");
          return -1; // 错误标志，假设数组中所有元素均非负
      }
-     int i=0,j=0;
+     int i,j=0;
      for(i=0;i<n;i++) {
          if (a[i] > 0) {
              j++;
@@ -56,7 +55,7 @@ int main() {
          scanf("%d",&a[i]);
      }
      printf("the sum of the elements of the array is %d\n",findMax(a,n));
-     printf("the mean of the array is %d\n",mean(a,n));
+     printf("the mean of the array is %.2f\n",mean(a,n));
      printf("the count of the array is %d\n",countpositive(a,n));
      return 0;
 
