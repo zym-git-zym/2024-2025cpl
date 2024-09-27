@@ -1,0 +1,1 @@
+add_executable(p1004 p1004.c)

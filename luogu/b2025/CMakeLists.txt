@@ -1,0 +1,1 @@
+add_executable(b2025 b2025.c)

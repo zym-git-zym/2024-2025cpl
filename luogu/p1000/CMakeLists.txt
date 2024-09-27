@@ -1,0 +1,1 @@
+add_executable(p1000 p1000.c)

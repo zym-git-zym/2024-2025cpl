@@ -1,0 +1,1 @@
+add_executable(p1046 p1046.c)

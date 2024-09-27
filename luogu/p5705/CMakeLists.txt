@@ -1,0 +1,1 @@
+add_executable(p5705 p5705.c)

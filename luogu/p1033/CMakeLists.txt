@@ -1,0 +1,1 @@
+add_executable(p1033 p1033.c)

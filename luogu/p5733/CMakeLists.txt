@@ -1,0 +1,1 @@
+add_executable(p5733 p5733.c)

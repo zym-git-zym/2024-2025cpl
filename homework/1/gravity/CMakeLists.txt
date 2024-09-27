@@ -1,0 +1,1 @@
+add_executable(gravity gravity.c)

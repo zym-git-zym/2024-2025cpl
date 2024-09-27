@@ -1,0 +1,1 @@
+add_executable(pi-2 pi-2.c)

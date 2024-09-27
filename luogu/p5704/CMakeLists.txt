@@ -1,0 +1,1 @@
+add_executable(p5704 p5704.c)

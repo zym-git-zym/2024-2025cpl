@@ -1,0 +1,1 @@
+add_executable(p1085 p1085.c)

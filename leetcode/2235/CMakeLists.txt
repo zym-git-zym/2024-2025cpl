@@ -1,0 +1,1 @@
+add_executable(2235 2235.c)

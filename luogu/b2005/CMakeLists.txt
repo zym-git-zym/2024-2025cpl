@@ -1,0 +1,1 @@
+add_executable(b2005 b2005.c)
