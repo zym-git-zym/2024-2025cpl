@@ -1,0 +1,1 @@
+add_executable(p1067 p1067.c)

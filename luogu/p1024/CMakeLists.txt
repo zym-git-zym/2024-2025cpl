@@ -1,0 +1,1 @@
+add_executable(p1024 p1024.c)

@@ -1,0 +1,1 @@
+add_executable(p1464 p1464.c)

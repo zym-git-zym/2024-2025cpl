@@ -1,0 +1,1 @@
+add_executable(equation-2 equation-2.c)

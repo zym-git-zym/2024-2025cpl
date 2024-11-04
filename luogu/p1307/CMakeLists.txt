@@ -1,0 +1,1 @@
+add_executable(p1307 p1307.c)

@@ -1,0 +1,1 @@
+add_executable(p1563 p1563.c)

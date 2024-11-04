@@ -1,0 +1,1 @@
+add_executable(p1025 p1025.c)

@@ -1,0 +1,1 @@
+add_executable(p1980 p1980.c)

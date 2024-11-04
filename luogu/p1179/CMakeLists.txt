@@ -1,0 +1,1 @@
+add_executable(p1179 p1179.c)

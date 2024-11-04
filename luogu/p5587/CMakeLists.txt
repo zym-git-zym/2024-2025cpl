@@ -1,0 +1,1 @@
+add_executable(p5587 p5587.c)

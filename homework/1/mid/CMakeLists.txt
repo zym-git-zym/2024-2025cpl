@@ -1,0 +1,1 @@
+add_executable(mid mid.c)

@@ -1,0 +1,1 @@
+add_executable(p1042 p1042.c)

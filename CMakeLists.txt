@@ -9,3 +9,6 @@ add_subdirectory(lesson)
 add_subdirectory(luogu)
 add_subdirectory(leetcode)
 add_subdirectory(homework)
+add_subdirectory(alg)
+add_subdirectory(work)
+

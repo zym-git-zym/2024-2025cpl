@@ -1,0 +1,1 @@
+add_executable(p5534 p5534.c)

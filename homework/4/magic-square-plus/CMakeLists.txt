@@ -1,0 +1,1 @@
+add_executable(magic-square-plus magic-square-plus.c)

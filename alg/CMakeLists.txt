@@ -1,0 +1,3 @@
+add_subdirectory(selectsort)
+add_subdirectory(bubblesort)
+add_subdirectory(3-wayRadixQuicksort)

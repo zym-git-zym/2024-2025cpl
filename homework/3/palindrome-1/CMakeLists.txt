@@ -1,0 +1,1 @@
+add_executable(palindrome-1 palindrome-1.c)

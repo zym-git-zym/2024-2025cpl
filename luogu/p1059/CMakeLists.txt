@@ -1,0 +1,1 @@
+add_executable(p1509 p1509.c)

@@ -1,0 +1,1 @@
+add_executable(b-ternary-2 b-ternary-2.c)

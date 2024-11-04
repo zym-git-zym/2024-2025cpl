@@ -1,0 +1,1 @@
+add_executable(p1192 p1192.c)

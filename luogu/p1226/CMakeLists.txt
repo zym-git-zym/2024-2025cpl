@@ -1,0 +1,1 @@
+add_executable(p1226 p1226.c)

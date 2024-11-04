@@ -1,0 +1,1 @@
+add_executable(p1387 p1387.c)

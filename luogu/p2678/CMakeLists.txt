@@ -1,0 +1,1 @@
+add_executable(p2678 p2678.c)

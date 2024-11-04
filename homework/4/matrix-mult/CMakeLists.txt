@@ -1,0 +1,1 @@
+add_executable(matrix-mult matrix-mult.c)

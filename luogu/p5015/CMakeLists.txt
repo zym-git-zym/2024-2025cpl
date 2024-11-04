@@ -1,0 +1,1 @@
+add_executable(p5015 p5015.c)

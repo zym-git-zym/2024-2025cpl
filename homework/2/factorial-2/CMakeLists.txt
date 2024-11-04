@@ -1,0 +1,1 @@
+add_executable(factorial-2 factorial-2.c)

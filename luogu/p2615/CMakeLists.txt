@@ -1,0 +1,1 @@
+add_executable(p2615 p2615.c)

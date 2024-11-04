@@ -1,0 +1,1 @@
+add_executable(p1427 p1427.c)

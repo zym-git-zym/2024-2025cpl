@@ -1,0 +1,1 @@
+add_executable(statistics-2 statistics-2.c)

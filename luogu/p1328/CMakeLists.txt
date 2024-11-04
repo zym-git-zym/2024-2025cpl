@@ -1,0 +1,1 @@
+add_executable(p1328 p1328.c)

@@ -1,0 +1,1 @@
+add_executable(clock clock.c)
